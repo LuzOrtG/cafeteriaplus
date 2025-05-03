@@ -96,7 +96,7 @@ El icono, splash y productos usan imágenes ubicadas por defecto en D:/DESCARGAS
 Apóyate de la guía de usuario que se encuentra en este mismo repositorio, sigue las instrucciones para iniciar sesión, ver productos, hacer pedidos, etc.
 
 ## ------------------------------------
-## **🖥 Cómo descargar y ejecutar el ejecutabler**
+## **🖥 Cómo descargar y ejecutar el ejecutable**
 ⚠️ Requisitos del sistema
 - Sistema operativo: Windows 7, 10, 11
 
