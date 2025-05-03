@@ -105,7 +105,7 @@ Apóyate de la guía de usuario que se encuentra en este mismo repositorio, sigu
 - No requiere instalación adicional
 ##
 📦 Paso 1: **Descargar el ejecutable**
-1. Descarga el archivo comprimido:
+1. Descarga el archivo comprimido, que se encuentra siguiendo el enlace https://correobuapmy.sharepoint.com/:u:/g/personal/og202450809_alm_buap_mx/ETVNUEljka1DqKpX0RPUgQABJNc39JmPwLrs-anj_oEEVQ?e=GYe6Bd :
 
    👉 cafeteriaplus_ejecutable.rar
 
