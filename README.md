@@ -127,6 +127,7 @@ Apóyate de la guía de usuario que se encuentra en este mismo repositorio, sigu
 
 ##
 👨‍💻 Autor
+
 Desarrollado por Luz Marisol O. G..
 
 
