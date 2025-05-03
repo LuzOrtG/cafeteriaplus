@@ -80,12 +80,15 @@ Asegúrate de marcar la opción “Add Python to PATH” durante la instalación
 
 2. 📁 Descarga el proyecto
 - Descarga o clona este repositorio.
-- Ejecuta el archivo principal que se encuentra dentro de la carpeta DESCARGAS Y COSAS:
-
-    **cafeteriaplus.py**
-
+  
 3. 🚀 Ejecuta el programa
-Desde una terminal, ejecuta el script
+- Desde una terminal, ejecuta el script principal que se encuentra dentro de la carpeta DESCARGAS Y COSAS:
+
+
+    **👉 cafeteriaplus.py**
+  (el sistema cargará automáticamente los datos existentes desde los archivos .json, si no existen, el programa los creará automáticamente)
+
+
 
 El icono, splash y productos usan imágenes ubicadas por defecto en D:/DESCARGAS Y COSAS/, cambia esa ruta si estás en otro sistema operativo o ubicación.
 
@@ -115,9 +118,15 @@ Apóyate de la guía de usuario que se encuentra en este mismo repositorio, sigu
 
 2. Haz doble clic sobre él para abrir el programa o tambien puedes arrastrar el archivo al escritorio para mas comodidad y posteriormente darle doble clic.
 
-3. El sistema se abrirá en una ventana de consola (terminal).
+4. El sistema se abrirá en una ventana de consola (terminal).
 
 Apóyate de la guía de usuario que se encuentra en este mismo repositorio, sigue las instrucciones para iniciar sesión, ver productos, hacer pedidos, etc.
+
+
+
+##
+👨‍💻 Autor
+Desarrollado por Luz Marisol O. G..
 
 
 
