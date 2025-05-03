@@ -86,6 +86,7 @@ Asegúrate de marcar la opción “Add Python to PATH” durante la instalación
 
 
     **👉 cafeteriaplus.py**
+  
   (el sistema cargará automáticamente los datos existentes desde los archivos .json, si no existen, el programa los creará automáticamente)
 
 
@@ -106,7 +107,7 @@ Apóyate de la guía de usuario que se encuentra en este mismo repositorio, sigu
 📦 Paso 1: **Descargar el ejecutable**
 1. Descarga el archivo comprimido:
 
-👉 cafeteriaplus_ejecutable.rar
+  👉 cafeteriaplus_ejecutable.rar
 
 2. Extrae el contenido usando un programa como WinRAR, 7-Zip o Windows Explorer.
 
