@@ -1,0 +1,9 @@
+[
+    {
+        "id": "a31752bb-2bd4-49fa-b7f2-a96e5648a649",
+        "username": "admin",
+        "password_hash": "5640f504804c5c11fec8d030ae83cb40a7854f7904f0121aaa9489be70fd3c90",
+        "is_owner": true,
+        "created_at": "2025-04-14 21:02:28"
+    }
+]

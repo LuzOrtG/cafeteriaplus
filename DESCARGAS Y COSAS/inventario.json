@@ -1,0 +1,30 @@
+{
+    "leche": {
+        "cantidad": 100.0,
+        "unidad": "ml"
+    },
+    "harina": {
+        "cantidad": 100.0,
+        "unidad": "gr"
+    },
+    "café": {
+        "cantidad": 100.0,
+        "unidad": "gr"
+    },
+    "chocolate": {
+        "cantidad": 100.0,
+        "unidad": "gr"
+    },
+    "azúcar": {
+        "cantidad": 100.0,
+        "unidad": "gr"
+    },
+    "huevos": {
+        "cantidad": 100.0,
+        "unidad": "unidades"
+    },
+    "agua": {
+        "cantidad": 100.0,
+        "unidad": "ml"
+    }
+}
