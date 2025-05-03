@@ -68,6 +68,7 @@
 ## ------------------------------------
 ## **▶️ Cómo Ejecutar**
 1. ✅ Asegúrate de tener Python instalado
+
 Este proyecto requiere Python 3.10 o superior.
 
 En Windows
